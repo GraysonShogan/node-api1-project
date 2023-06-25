@@ -1,6 +1,3 @@
-// BUILD YOUR SERVER HERE
-
-// 'import' or 'require' express
 const express = require("express");
 
 const User = require("./users/model");
